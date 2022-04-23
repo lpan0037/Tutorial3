@@ -10,4 +10,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 conflict in main-conflict
 
-conflict1
+
